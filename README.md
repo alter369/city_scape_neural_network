@@ -40,6 +40,6 @@
 Причина, по которой мы сохраняем функции в автономном режиме, а не добавляем нашу полностью связанную модель непосредственно поверх замороженной сверточной базы и запуска всего этого, - это вычислительная эффективность.
 
 [Сайт Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
-[VGG-16 для Keras](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
 
-### Визуализация
+
+[VGG-16 для Keras](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
